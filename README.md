@@ -18,3 +18,7 @@ comment.php
 comments/data 파일에서 한 줄을 랜덤하게 골라 CommentWriteForm의 content에 출력한다.
 
 `<script type="text/javascript" src=".../comment.php"></script>`와 같이 사용한다.
+
+plugin_last_comments.js
+-----------------------
+`<script type="text/javascript" src=".../plugin_last_comments.php"></script>`와 같이 사용한다.
