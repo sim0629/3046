@@ -1,4 +1,5 @@
 <?php
+header("Content-Type: text/javascript; charset=utf-8");
 
 $timestamp = time();
 $current_month = date('n', $timestamp);
